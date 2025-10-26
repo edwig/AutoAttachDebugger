@@ -17,7 +17,7 @@ Just start the program you want to debug (e.g. start the IIS service or Windows 
 will come up with an attachment dialog to choose the version of Visual Studio you want to use.
 Debugging then commences at the first entry of the program on.
 
-![example](./AutoAttachDebugger/res/Example.png "Setting the debugger")
+![example](./res/Example.png "Setting the debugger")
 
 Resetting the normal mode
 -------------------------

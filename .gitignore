@@ -18,6 +18,7 @@
 mono_crash.*
 
 # Build results
+Lib/
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
@@ -33,6 +34,10 @@ bld/
 [Oo]ut/
 [Ll]og/
 [Ll]ogs/
+Bin_x64Debug
+Bin_x64Release
+Bin_Win32Debug
+Bin_Win32Release
 
 # Build results on 'Bin' directories
 **/[Bb]in/*
